@@ -2,7 +2,7 @@
 @import "../../Scripts/bootstrap/scss/_variables.scss";
 
 // Import "include-media"
-@import "../../node_modules/include-media/dist/include-media";
+@import "../../Content/sass/include-media/dist/_include-media.scss";
 @import "makegrid";
 $grid-breakpoints: ( xs: 0, sm: 480px, md: 738px, lg: 992px, xl: 1200px ) !default;
 

@@ -3,7 +3,7 @@
     var image = $('.grid-image img');
 
     image.draggable({
-        axis: "x",
+        
         revert: true,
         zIndex: 1000,
         cursor: "move"
